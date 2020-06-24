@@ -1,2 +1,2 @@
 # php_to_html
-Crée element element html a partir de php
+Crée elements html a partir de php
